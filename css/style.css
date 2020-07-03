@@ -534,7 +534,6 @@ address .main-footer-list li:not(:last-child) {
   padding-bottom: 20px;
   padding-top: 20px;
   background: #ffffff;
-  border: 1px solid #eeeeee;
   box-sizing: border-box;
   outline: transparent;
   text-decoration: none;
